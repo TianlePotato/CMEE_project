@@ -20,3 +20,8 @@ Packages: pandas, numpy, os, scipy, sklearn, xgboost, matplotlib, math
 
 **R version 4.1.2**
 Packages: ggplot2, gridExtra, ggsci
+
+
+## Data
+
+- 3D-POP dataset can be found at https://github.com/alexhang212/Dataset-3DPOP
